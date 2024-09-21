@@ -1,2 +1,3 @@
-# Security-lab-submit
-Nơi nộp bài môn Security Information
+# 22110054 Nguyễn Hữu Nghi
+***
+#Lab 1, Lab 2
